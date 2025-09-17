@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Luis Fernández
 
-<!--
-**luisferdk/luisferdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** with 8+ years of experience building **web** and **mobile applications**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Specialized in **ReactJS, NextJS, React Native**.
+- Strong backend experience with **FastAPI, Django, ExpressJS**.
+- Skilled in **MySQL & PostgreSQL** database design.
+- Deploying apps on **AWS** with scalability in mind.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** ReactJS, NextJS, React Native
+- **Backend:** FastAPI, Django, ExpressJS
+- **Databases:** MySQL, PostgreSQL
+- **Cloud:** AWS
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [luisdk.03@gmail.com](mailto:luisdk.03@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/luisferdk](https://linkedin.com/in/luisferdk)
