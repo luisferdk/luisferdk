@@ -1,28 +1,47 @@
-# 👋 Hi, I’m Luis Fernández
+👋 Hi, I’m Luis Fernández
 
-💻 **Full Stack Developer** with 8+ years of experience building **web** and **mobile applications**.
+💻 Full Stack Developer with over 8 years of experience building web and mobile applications with a focus on scalability, clean architecture, and AI-driven solutions.
 
----
+🚀 About Me
 
-## 🚀 About Me
+I’m passionate about building modern, user-centered products that combine solid engineering with intelligent automation.
+My main stack includes ReactJS, NextJS, and React Native for the frontend, and NodeJS (ExpressJS) or Serverless architectures on AWS for the backend.
 
-- Specialized in **ReactJS, NextJS, React Native**.
-- Strong backend experience with **NodeJS (ExpressJS) and Python (FastAPI, Django)**.
-- Skilled in **MySQL & PostgreSQL** database design.
-- Deploying apps on **AWS** with scalability in mind.
+I have extensive experience designing and deploying secure APIs, integrating OpenAI API to power features such as natural language understanding, dynamic content generation, and personalized user experiences.
+I’ve also implemented MCP (Model Context Protocol) integrations to enable multi-agent workflows and RAG (Retrieval-Augmented Generation) systems that enhance model responses using real-time or private knowledge bases.
 
----
+I’m deeply focused on building clean, maintainable, and scalable architectures, applying SOLID principles, and ensuring high performance across all layers of development.
 
-## 🛠️ Tech Stack
+🧠 AI & Automation Expertise
 
-- **Frontend:** ReactJS, NextJS, React Native
-- **Backend:** NodeJS, Python
-- **Databases:** MySQL, PostgreSQL
-- **Cloud:** AWS
+OpenAI API Integration: GPT-based assistants, text generation, embeddings, and fine-tuned AI workflows.
 
----
+Model Context Protocol (MCP): Connecting AI models to real-time data sources and APIs for contextual reasoning.
 
-## 📫 Contact
+Retrieval-Augmented Generation (RAG): Implementing hybrid systems combining vector databases (e.g., FAISS, Pinecone) with LLMs for enhanced information retrieval and accuracy.
 
-- 📧 Email: [luisdk.03@gmail.com](mailto:luisdk.03@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/luisferdk](https://linkedin.com/in/luisferdk)
+AI Tooling: Experience with Cursor AI, LangChain, and custom middleware for AI-driven applications.
+
+🛠️ Tech Stack
+
+Frontend: ReactJS, NextJS, React Native, TypeScript
+
+Backend: NodeJS (ExpressJS), Serverless, Python (FastAPI, Django)
+
+Databases: MySQL, PostgreSQL
+
+Cloud: AWS (Amplify, Lambda, SQS, SNS, S3)
+
+AI & Automation: OpenAI API, MCP, RAG, LangChain, Cursor AI
+
+Other Tools: Git, ClickUp, Notion
+
+🌱 Currently Learning
+
+Expanding my knowledge in autonomous AI systems, multi-agent orchestration, and real-time knowledge retrieval to build smarter, more adaptive applications.
+
+📫 Contact
+
+📧 luisdk.03@gmail.com
+
+💼 linkedin.com/in/luisferdk
