@@ -1,18 +1,19 @@
 # 👋 Hi, I’m Luis Fernández
 
-💻 **Full Stack Developer** with over **8 years of experience** building **web and mobile applications** with a focus on **scalability**, **clean architecture**, and **AI-driven solutions**.
+💻 **Full Stack Developer** with experience building **web and mobile applications** with a focus on **scalability**, **clean architecture**.
 
 ---
 
 ## 🚀 About Me
 
-I’m passionate about building modern, user-centered products that combine solid engineering with intelligent automation.
-My main stack includes **ReactJS, NextJS, and React Native** for the frontend, and **NodeJS (ExpressJS)** or **Serverless architectures on AWS** for the backend.
+I'm a Full Stack Developer passionate about building modern, user-centered products, combining solid engineering with intelligent automation.
 
-I have extensive experience designing and deploying secure APIs, integrating **OpenAI API** to power features such as natural language understanding, dynamic content generation, and personalized user experiences.
-I’ve also implemented **MCP (Model Context Protocol)** integrations to enable multi-agent workflows and **RAG (Retrieval-Augmented Generation)** systems that enhance model responses using real-time or private knowledge bases.
+I have experience developing secure and scalable APIs using Node.js with Express.js, as well as Python with FastAPI and Django, designed in accordance with best practices and SOLID principles.
 
-I’m deeply focused on building **clean, maintainable, and scalable architectures**, applying **SOLID principles**, and ensuring high performance across all layers of development.
+I have built web applications and administrative dashboards using ReactJS, with a focus on performance, maintainability, and an excellent user experience.
+Additionally, I have developed cross-platform mobile applications using React Native, integrating authentication flows, API consumption, and advanced features.
+
+I work with clean, growth-oriented architectures, prioritizing clear, reusable, and easy-to-maintain code.
 
 ---
 
@@ -22,7 +23,7 @@ I’m deeply focused on building **clean, maintainable, and scalable architectur
 * **Backend:** NodeJS (ExpressJS), Serverless, Python (FastAPI, Django)
 * **Databases:** MySQL, PostgreSQL
 * **Cloud:** AWS (Amplify, Lambda, SQS, SNS, S3)
-* **AI & Automation:** OpenAI API, MCP, RAG, LangChain, Cursor AI
+* **AI & Automation:** OpenAI API, Cursor AI
 * **Other Tools:** Git, ClickUp, Notion
 
 ---
