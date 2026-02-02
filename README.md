@@ -1,41 +1,57 @@
 # 👋 Hi, I’m Luis Fernández
 
-💻 **Full Stack Developer** with experience building **web and mobile applications** with a focus on **scalability**, **clean architecture**.
+💻 **Full-Stack Engineer** focused on building **scalable, production-ready web and mobile applications** with clean architecture and real-world impact.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building modern, user-centered products, combining solid engineering with intelligent automation.
+I design and build end-to-end products — from backend architecture to modern user interfaces.
 
-I have experience developing secure and scalable APIs using Node.js with Express.js, as well as Python with FastAPI and Django, designed in accordance with best practices and SOLID principles.
+My main strength is backend engineering with **Node.js + NestJS**, where I develop secure REST APIs, real-time systems, and modular services designed for scalability, maintainability, and performance. I follow clean architecture, SOLID principles, and automated testing to ensure reliable, production-ready systems.
 
-I have built web applications and administrative dashboards using ReactJS, with a focus on performance, maintainability, and an excellent user experience.
-Additionally, I have developed cross-platform mobile applications using React Native, integrating authentication flows, API consumption, and advanced features.
+On the frontend, I create modern web and mobile apps using **React, Next.js, and React Native**, focusing on great UX, performance, and reusable components.
 
-I work with clean, growth-oriented architectures, prioritizing clear, reusable, and easy-to-maintain code.
+I enjoy solving complex problems, optimizing systems, and turning ideas into robust software that scales.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** ReactJS, NextJS, React Native, TypeScript
-* **Backend:** NodeJS (ExpressJS), Serverless, Python (FastAPI, Django)
-* **Databases:** MySQL, PostgreSQL
-* **Cloud:** AWS (Amplify, Lambda, SQS, SNS, S3)
-* **AI & Automation:** OpenAI API, Cursor AI
-* **Other Tools:** Git, ClickUp, Notion
+**Backend**
+NestJS, Node.js, TypeScript, REST APIs, Authentication (JWT), Jest (Unit/Integration/E2E)
+
+**Frontend & Mobile**
+React, Next.js, React Native, TypeScript, React Query, Tailwind
+
+**Databases**
+PostgreSQL, MySQL, Sequelize ORM, Prisma ORM
+
+**Cloud & Realtime**
+AWS (Lambda, SQS, SNS, S3, EC2), Firebase Realtime DB
+
+**Tools**
+Git, Docker, Notion, ClickUp, Cursor AI, Claude Code
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Engineering Focus
 
-Expanding my knowledge in **autonomous AI systems**, **multi-agent orchestration**, and **real-time knowledge retrieval** to build smarter, more adaptive applications.
+* Clean Architecture & SOLID principles
+* Scalable backend systems
+* API design & system reliability
+* Automated testing strategies
+* Performance optimization
 
 ---
 
-## 📫 Contact
+## 🌱 Currently Exploring
 
-* 📧 [luisdk.03@gmail.com](mailto:luisdk.03@gmail.com)
-* 💼 [linkedin.com/in/luisferdk](https://linkedin.com/in/luisferdk)
+AI-powered workflows, intelligent automation, and real-time data systems to build smarter and more adaptive products.
 
+---
+
+## 📫 Let’s connect
+
+📧 [luisdk.03@gmail.com](mailto:luisdk.03@gmail.com)
+💼 linkedin.com/in/luisferdk
