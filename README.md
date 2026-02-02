@@ -55,4 +55,4 @@ AI-powered workflows, intelligent automation, and real-time data systems to buil
 
 📧 [luisdk.03@gmail.com](mailto:luisdk.03@gmail.com)
 
-💼 linkedin.com/in/luisferdk
+💼 [linkedin.com/in/luisferdk](https://www.linkedin.com/in/luisferdk/)
